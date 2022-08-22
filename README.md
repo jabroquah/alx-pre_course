@@ -1,6 +1,6 @@
-#ALX PRE COURSE
+# ALX PRE COURSE
 
-##After this project
+## After this project
 I learnt how to:
 1. Create a repository
 2. Write good READMEs
